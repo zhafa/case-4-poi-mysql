@@ -1,6 +1,6 @@
-# Case 3 - Session & Cookie
+# Case 4 - POI MySql
 
-Program ini dibuat sebagai implementasi dari cookies yang dimana form login menggunakan fitur remember me yang dapat menyimpan cookie pada website, dan penambahan logika apabila tidak memenuhi dari kriteria password dan email akan memunculkan dialog box "email dan password salah !"
+Pada Github ini merupakan arsip dar query sql untuk database yang akan nantik digunakan untuk menyimpan dan melakukan CRUD dari program case-4 selanjutnya 
 
 ## Authors
 
